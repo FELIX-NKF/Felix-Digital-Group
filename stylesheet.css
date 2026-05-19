@@ -54,13 +54,17 @@ text-align: center;
 .A Propos de nous{padding: 50px 20px;
 text-align: center;
 }
-footer{height: 50px;
+.A Propos de nous:hover{color: red;
+}
+footer{height: 100px;
 background-color:#7D3708;
 text-align: center;
-line-height: 50px;
+line-height: 100px;
 bottom: 0px;
 width: 100%;
 align-items: center;
+}
+p{color: white;
 }
 footer a{border-radius: 30px;
 background-color: #fff;
