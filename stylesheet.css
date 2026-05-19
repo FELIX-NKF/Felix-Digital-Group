@@ -38,9 +38,14 @@ margin: 0px 10px;
 }
 nav a:hover{color: #F82F32;
 }
-.main-contain{height: 200px;
-display: flex;
+.image-container{display: flex;
 width: 100%;
+align-items: center;
+justify-content: center;
+}
+.image-container img{max-width: 100%;
+height:auto;
+display: block;
 }
 .contact{padding: 50px 20px;
 text-align: center;
@@ -59,7 +64,7 @@ text-align: center;
 footer{height: 100px;
 background-color:#7D3708;
 text-align: center;
-line-height: 80px;
+line-height: 100px;
 bottom: 0px;
 width: 100%;
 align-items: center;
@@ -91,9 +96,6 @@ padding: 10px;
 }
 nav a{display: block;
 margin: 10px 0;
-}
-img{align-items: center;
-justify-content: center;
 }
 
 
