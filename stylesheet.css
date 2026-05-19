@@ -71,7 +71,8 @@ align-items: center;
 overflow: visible;
 word-wrap: break-word;
 }
-p{color: white;
+footer p{color: white;
+word-break: keep-all;
 }
 footer a{border-radius: 30px;
 background-color: #fff;
