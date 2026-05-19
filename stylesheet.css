@@ -68,6 +68,8 @@ line-height: 100px;
 bottom: 0px;
 width: 100%;
 align-items: center;
+overflow: visible;
+word-wrap: break-word;
 }
 p{color: white;
 }
