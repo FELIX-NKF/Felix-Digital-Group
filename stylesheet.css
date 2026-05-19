@@ -56,10 +56,10 @@ text-align: center;
 }
 .A Propos de nous:hover{color: red;
 }
-footer{height: 80px;
+footer{height: 100px;
 background-color:#7D3708;
 text-align: center;
-line-height: 100px;
+line-height: 80px;
 bottom: 0px;
 width: 100%;
 align-items: center;
