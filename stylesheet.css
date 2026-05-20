@@ -75,13 +75,14 @@ footer p{color: white;
 word-break: keep-all;
 }
 footer a{border-radius: 30px;
-background-color: #fff;
+background-color: #000000;
 padding: 12px 25px;
 margin: 60px 20px 30px;
 cursor: pointer;
 text-decoration: none;
 border: none;}
 *{box-sizing: border-box;
+color: #F8F8F8;
 }
 img{max-width: 100%;
 	height: auto;
