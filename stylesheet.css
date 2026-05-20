@@ -26,7 +26,7 @@ color: white;
 margin: 0px;
 }
 nav{height: 50px;
-background-color: #D6D3D3;
+background-color: black;
 text-align: center;
 line-height: 50px;
 width: 100%;
@@ -61,10 +61,10 @@ text-align: center;
 }
 .A Propos de nous:hover{color: red;
 }
-footer{height: 100px;
+footer{height: 50px;
 background-color:#7D3708;
 text-align: center;
-line-height: 100px;
+line-height: 50px;
 bottom: 0px;
 width: 100%;
 align-items: center;
@@ -73,6 +73,8 @@ word-wrap: break-word;
 }
 footer p{color: white;
 word-break: keep-all;
+font-size: 12px;
+white-space: nowrap;
 }
 footer a{border-radius: 30px;
 background-color: #000000;
@@ -82,7 +84,7 @@ cursor: pointer;
 text-decoration: none;
 border: none;}
 *{box-sizing: border-box;
-color: #F8F8F8;
+color: white;
 }
 img{max-width: 100%;
 	height: auto;
