@@ -9,6 +9,8 @@ align-items: center;
 height: 150px;
 text-align: center;
 flex-wrap: wrap;
+margin-bottom: 10px;
+padding-bottom: 0;
 }
 .logo{width: 70px;
 border-radius: 50%;
@@ -104,6 +106,8 @@ width: 100%;
 align-items: center;
 overflow: visible;
 word-wrap: break-word;
+margin-top: 10px;
+padding-top: 10px;
 }
 footer p{color: white;
 word-break: keep-all;
@@ -113,7 +117,7 @@ white-space: nowrap;
 img{max-width: 100%;
 	height: auto;
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:600px){
 		header{flex-direction: column;
 	height: auto;
 	text-align: center;
