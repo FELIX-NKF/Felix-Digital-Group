@@ -102,21 +102,15 @@ text-align: center;
 }
 footer{height: 50px;
 background-color:#7D3708;
-text-align: center;
-line-height: 50px;
-bottom: 0px;
-width: 100%;
+display: flex;
+justify-content: center;
 align-items: center;
-overflow: visible;
-word-wrap: break-word;
-margin-top: 10px;
-padding-top: 10px;
+width: 100%;
 }
 footer p{color: white;
-word-break: keep-all;
 font-size: 12px;
-white-space: nowrap;
 text-align: center;
+margin: 0;
 }
 img{max-width: 100%;
 	height: auto;
