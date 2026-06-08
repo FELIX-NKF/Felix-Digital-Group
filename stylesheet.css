@@ -68,10 +68,10 @@ border-radius: 50px;
 transition: 0.3s;
 border: 1px solid rgba(255,255,255,0.2);
 }
-.menu-item a{color: #D4AF37;
+.menu-item a{color: #C99C0B;
 text-decoration: none;
 
-.menu-item:hover{background: #D4AF37;
+.menu-item:hover{background: #C99C0B;
 transform: scale(1.05);
 }
 .about-bottom{text-align: center;
@@ -86,7 +86,7 @@ font-weight: bold;
 transition: 0.3s;
 border: 1px solid rgba(255,255,255,0.2);
 }
-.about-bottom a:hover{background: #D4AF37;
+.about-bottom a:hover{background: #C99C0B;
 transform: scale(1.05);
 }
 .contact{padding: 50px 20px;
