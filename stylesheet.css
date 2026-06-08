@@ -105,6 +105,7 @@ background-color:#7D3708;
 display: flex;
 justify-content: center;
 align-items: center;
+width: 100%;
 }
 footer p{color: white;
 font-size: 12px;
