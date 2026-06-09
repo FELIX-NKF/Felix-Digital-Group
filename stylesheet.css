@@ -1,7 +1,7 @@
 body{margin: 0;
-font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
-header{background-color: #502703;
+header{background-color: #723105;
 padding: 30px;
 display: flex;
 justify-content:center;
@@ -69,8 +69,7 @@ transition: 0.3s;
 border: 1px solid rgba(255,255,255,0.2);
 }
 .menu-item a{color: #C99C0B;
-text-decoration: none;
-
+text-decoration: none;}
 .menu-item:hover{background: #C99C0B;
 transform: scale(1.05);
 }
@@ -101,7 +100,7 @@ text-align: center;}
 text-align: center;
 }
 footer{height: 50px;
-background-color:#7D3708;
+background-color:#974006;
 display: flex;
 justify-content: center;
 align-items: center;
