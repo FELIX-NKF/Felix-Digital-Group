@@ -1,7 +1,7 @@
 body{margin: 0;
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
-header{background-color: #723105;
+header{background-color: #1A1A2E;
 padding: 30px;
 display: flex;
 justify-content:center;
@@ -99,8 +99,7 @@ text-align: center;}
 .A Propos de nous{padding: 50px 20px;
 text-align: center;
 }
-footer{height: 50px;
-background-color:#974006;
+footer{height: 260px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -243,7 +242,7 @@ width: 100%;
 }
 .footer-content{display: flex;
 flex-wrap: wrap;
-justify-content: space-between;
+justify-content: center;
 width: 100%;
 box-sizing: border-box;
 padding: 40px 30px;
@@ -259,6 +258,14 @@ color: #ccc;
 .footer-column i{margin-right: 10px;
 color: #C99C0B;
 }
+.footer-column{display: inline-block;
+width: auto;
+margin: 10px 20px;
+}
+.footer-bottom{display: block;
+text-align: center;
+max-width: 100%;
+width: 100%;}
 .social-icons a{display: inline-block;
 background: rgba(255,255,255,0.1);
 color: white;
